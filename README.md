@@ -1,4 +1,4 @@
-### Abel Cabrera Miranda
+### Abel Cabrera Miranda :octocat:
 📗 📘 📒 Mi Estudio Universitario Completado: Ingeniería en Sistemas
 
 💪 Mis habilidades en Programación:
@@ -8,5 +8,5 @@
 - ☁️ Utilizo AZURE para publicar páginas web con Bases de Datos.
 - ✅ Conozco javaScript, CSS3, HTML5 y Ajax.
 - 🐳 Se crear Contenedores, Imagenes en Docker.
-- He desarrollado con el Lenguaje PHP.
+- :heavy_check_mark: He desarrollado con el Lenguaje PHP.
 
