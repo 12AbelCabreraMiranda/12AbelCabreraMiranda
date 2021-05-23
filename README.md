@@ -9,4 +9,4 @@
 - ✅ Conozco javaScript, CSS3, HTML5 y Ajax.
 - 🐳 Se crear Contenedores, Imagenes en Docker.
 - :heavy_check_mark: He desarrollado con el Lenguaje PHP.
-
+- :file_folder: Gestores de Bases de Datos que he utilizado: SQLServer y MySQL
