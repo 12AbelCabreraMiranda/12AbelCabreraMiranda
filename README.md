@@ -10,3 +10,6 @@
 - 🐳 Se crear Contenedores, Imagenes en Docker.
 - :heavy_check_mark: He desarrollado con el Lenguaje PHP.
 - :file_folder: Gestores de Bases de Datos que he utilizado: SQLServer y MySQL
+
+:computer: Sigo aprendiendo(leyendo, investigando, llevando cursos, viendo tutoriales) para mejorar más mis habilidades como Desarrollador de Software.
+
